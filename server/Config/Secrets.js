@@ -1,0 +1,1 @@
+export const geminiAPI = `AIzaSyCv3Y0zUQvmnn_G6O-IrmWoHaIx7_vHgxQ`
